@@ -13,5 +13,5 @@ Welcome to the **Solar Challenge Week 1** project! This repository is structured
 ### Repository Setup
 - Clone this repo:
   ```bash
-  git clone https://github.com/<your-username>/solar-challenge-week1.git
+  git clone https://github.com/reman-tsega/solar-challenge-week1.git
   cd solar-challenge-week1
